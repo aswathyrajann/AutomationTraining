@@ -1,0 +1,2 @@
+# AutomationTraining
+GIT basics
